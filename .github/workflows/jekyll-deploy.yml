@@ -2,8 +2,9 @@ name: Testing the GitHub Pages publication
 
 on:
   push:
-    branches: [ main ]
-
+    branches: 
+      - main 
+      - no_relative_directories
   workflow_dispatch:
 
 jobs:
