@@ -7,4 +7,3 @@ layout: home
 
 This is a demonstration of using the helaili/jekyll-action with a differing source directory.
 
-{% include post-list.html %}
